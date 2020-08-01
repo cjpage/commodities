@@ -1,4 +1,5 @@
 # Crude Oil Price Predictor
 
-the CSV file contains the daily closing prices of seven globally traded commodities (crude oil, heating oil, gasoline, natural gas, gold, silver, platinum) for 2010-2020
-it was assembled from pubicly available information posted and made available for download by NASDAQ
+Repository for the second of two capstone projects
+
+The purpose of the Crude Oil Price Predictor effort was to develop an algorithm capable of predicting crude oil commodity pricing with a commercially viable level of accuracy, quantified as the Root Means Square Error (RMSE)
